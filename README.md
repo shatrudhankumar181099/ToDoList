@@ -1,1 +1,1 @@
-ToDoList App using Room Database.This app main feature are add, edit, delete, scrolling and current date & time.
+ToDoList App using Room Database.This app main feature are add, edit, delete, scrolling and current date & time.This app displays the list of notes in RecyclerView which are added by the user. Along with this, we can also add a new note in the app. Rooms database has been used to store data across users' devices. All codes written in kotlin language in Android Studio.
